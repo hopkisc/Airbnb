@@ -19,3 +19,12 @@ Findings can be found at https://medium.com/@sustained_tiffany_gnu_558/how-would
 ## Licensing, Authors, Acknowledgements
 
 Thanks to Airbnb for their public dataset, Stack overflow for their FAQs and Udacity for providing the teaching. 
+
+## Libaries Used
+
+- Pandas
+- Seaborn
+- Matplotlib
+- Datetime
+- Sklearn
+- Re
